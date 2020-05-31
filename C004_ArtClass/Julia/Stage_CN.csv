@@ -21,7 +21,7 @@
 50,0,0,,我觉得我可以试试。|（无奈地叹了口气）,不用担心，大胆尝试！（她摆了个Pose）,60,0,-1,
 50,0,0,,准备就绪！|摆出你最好的Pose~,棒极了！让我看看你的本事吧。（她摆了个Pose）,60,0,1,
 60,2,0,BigHugReady,能再给我一个拥抱么？,好的~（她又紧紧地抱住了你，你又无法呼吸了）,60,0,0,BigHug()
-60,0,0,Sandro,"你知道Botticelli的|""The Birth of Venus""吗？", 哦？你知道Sandro Botticelli大师的杰作吗？,70,0,0,
+60,0,0,Sandro,"你知道Botticelli的|""The Birth of Venus""吗？", 哦？你知道Sandro Botticelli大师的杰作？,70,0,0,
 60,0,0,Sandro,"你听说过""The Birth| of Venus""吗？（小声）",,70,0,-1,
 70,0,0,,我打赌你肯定是|一个美妙的Venus！ ,（她笑了笑）我吗？|美妙的Venus？,80,1,0,
 70,0,0,,你可以摆出|Venus的Pose。,我？Venus的姿势？|像Botticelli的Venus那样？,80,0,0,
