@@ -20,7 +20,7 @@ FailUntie,（你试图解开Julia，|但在学生们的笑声中失败了）
 "Tickle		",（你在班级面前挠了挠她的痒，|她大声地笑着，似乎乐在其中）
 "TickleRestrained		",（你尝试着挠了挠她的痒，|她大声地笑着，似乎乐在其中）
 "AskNewModelGagged		",（她点了点头，满不在意地看着四周）
-"PlayerUngag		",喔！为什么你要把新同学的嘴堵上呢？|（她在笑声中解下了你的堵嘴物）
+"PlayerUngag		",喔！为什么要把新同学的嘴堵上呢？|（她在笑声中解下了你的堵嘴物）
 "PlayerStayGagged		",有人堵住了你的嘴？不错！这就是艺术~|（你需要3点或更高的好感来让她解开你）
 "JuliaRestrainedPlayerGagged		",（她努力摆弄着绳子，但没能解开你）
 "GaggedSpeach		Eep ah hoze eew wuwii!|",（你听不清她想说什么）
