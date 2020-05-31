@@ -20,7 +20,7 @@
 130,0,0,CanBeTied,Sarah，你可以|把我捆起来么？,我更喜欢被绑，但帮帮你也是可以的。|（她接过绳子把你紧紧捆了起来）,130,0,0,TiePlayer()
 130,0,0,CanBeBallGagged,检查一下我的包，|里面有口球。,哦太好了~张开嘴巴我可爱的模特~|（她把口球塞进你的嘴里）,130,0,0,BallGagPlayer()
 130,0,0,Common_PlayerRestrained,Sarah，可以帮帮我么？,,130,0,0,BegForRelease()
-130,0,0,Common_PlayerGagged,"@Nanghn, uuumng!",（她笑了笑）这个口球真是可爱~,130,0,0,
+130,0,0,Common_PlayerGagged,"@Nanghn, uuumng!",（她笑了笑）你被堵着嘴的样子真可爱~,130,0,0,
 130,0,0,Common_PlayerGagged,（低下头）,你知道你真是个很棒的受么?,130,0,0,BowHead()
 130,0,0,GetTapeAvail,还有什么别的可以用的么？,嗯！我这还有点东西可以给你。|（她从旁边摸出一堆胶布塞给你）,130,0,0,GetTape()
 130,0,0,IsModel,你不该像Julia那样|也脱光衣服么？,（她笑了笑）的确如此~|（她脱掉了衣服）,140,0,0,"SetCloth(1, 0, 0)"
